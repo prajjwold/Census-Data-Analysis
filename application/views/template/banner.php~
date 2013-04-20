@@ -1,0 +1,20 @@
+ <div class="container">
+      <div style="clear:both"/>
+      <!-- Main hero unit for a primary marketing message or call to action -->
+      <!-- <div class="hero-unit" style="padding:0"> -->
+        <div class="row">
+        <div class="span12 well well-small" style="padding-left:0;padding-right:0">
+          <div class="pull-right" style="margin-left:10px;">
+            <img src="./img/Lighthouse.jpg" alt="slider" style="width:765px;height:150px;margin-top:10px;margin-right:10px;"/>
+          </div>
+          <div class="pull-left" style="width:365px;padding:10px;">
+            <!-- extra field -->
+            <img src="./img/logo.jpg" alt="slider" style="width:345px;height:150px;"/>
+          </div>
+        </div>
+        
+      <!-- </div> -->
+        <!-- <h1>Hello, world!</h1> -->
+        <!-- <p>This is a template for a simple marketing or informational website. It includes a large callout called the hero unit and three supporting pieces of content. Use it as a starting point to create something more unique.</p> -->
+        <!-- <p><a class="btn btn-primary btn-large">Learn more &raquo;</a></p> -->
+      </div>
