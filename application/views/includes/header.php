@@ -5,7 +5,7 @@ For licensing, see LICENSE.html or http://ckeditor.com/license
 -->
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-    <title><?php echo $title;?></title>
+    <title><?php echo  $title;?></title>
     <meta content="text/html; charset=utf-8" http-equiv="content-type" />
     <link href="<?php echo base_url();?>css/main.css" media="all" rel="stylesheet" type="text/css" /> 
  

@@ -1,4 +1,4 @@
-<?php 	$this->load->view('template/header', $title);
+<?php 	$this->load->view('template/header');
 
 		$this->load->view('template/banner');
 		
