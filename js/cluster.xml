@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2010 (http://www.altova.com) by prajjwol (Dandekhya) -->
+<Document>
+	<Cluster id="Cluster 1">
+		<Description>religion distribution</Description>
+		<Districts>Dhanusha,Mahottari,Sarlahi,Rautahat,Bara,Parsa,Nawalparasi,Rupandehi,Kapilbastu</Districts>
+		<Info><![CDATA[
+<b>Hindu</b> 464487<br/>
+<b>Islam</b> 53835<br/>
+<b>Bouddha</b> 20444<br/>
+<b>Christian</b> 838<br/>
+<b>Others</b> 444<br/>
+<b>Sikha</b> 107<br/>
+<b>Kirat</b> 48<br/>
+<b>Jain</b> 38<br/>
+<b>Garaute</b> 25<br/>
+<b>Bahai</b> 19<br/>
+]]></Info>
+	</Cluster>
+	<Cluster id="Cluster 2">
+		<Description>religion distribution</Description>
+		<Districts>Dailekh,Dolpa,Jumla,Kalikot,Mugu,Humla,Bajura,Bajhang,Achham,Doti,Kailali,Kanchanpur,Dadeldhura,Baitadi,Darchula</Districts>
+		<Info><![CDATA[
+<b>Hindu</b> 346243<br/>
+<b>Bouddha</b> 16135<br/>
+<b>Islam</b> 895<br/>
+<b>Christian</b> 840<br/>
+<b>Others</b> 169<br/>
+<b>Kirat</b> 105<br/>
+<b>Bahai</b> 28<br/>
+<b>Jain</b> 18<br/>
+<b>Sikha</b> 17<br/>
+<b>Garaute</b> 15<br/>
+]]></Info>
+	</Cluster>
+	<Cluster id="Cluster 3">
+		<Description>religion distribution</Description>
+		<Districts>Taplejung,Panchthar,Ilam,Jhapa,Morang,Sunsari,Dhankuta,Terhathum,Sankhuwasabha,Bhojpur,Solukhumbu,Okhaldhunga,Khotang,Udayapur,Saptari,Siraha</Districts>
+		<Info><![CDATA[
+<b>Hindu</b> 410157<br/>
+<b>Kirat</b> 72225<br/>
+<b>Bouddha</b> 43950<br/>
+<b>Islam</b> 16922<br/>
+<b>Others</b> 4657<br/>
+<b>Christian</b> 3266<br/>
+<b>Sikha</b> 391<br/>
+<b>Jain</b> 334<br/>
+<b>Tapjura</b> 121<br/>
+<b>Bahai</b> 59<br/>
+]]></Info>
+	</Cluster>
+	<Cluster id="Cluster 4">
+		<Description>religion distribution</Description>
+		<Districts>Gorkha,Lamjung,Tanahu,Syangja,Kaski,Manang,Mustang,Myagdi,Parbat,Baglung,Gulmi,Palpa,Arghakhanchi</Districts>
+		<Info><![CDATA[
+<b>Hindu</b> 260074<br/>
+<b>Bouddha</b> 52276<br/>
+<b>Islam</b> 2072<br/>
+<b>Others</b> 1175<br/>
+<b>Christian</b> 783<br/>
+<b>Sikha</b> 65<br/>
+<b>Kirat</b> 33<br/>
+<b>Tapjura</b> 20<br/>
+<b>Jain</b> 18<br/>
+<b>Bahai</b> 4<br/>
+]]></Info>
+	</Cluster>
+	<Cluster id="Cluster 5">
+		<Description>religion distribution</Description>
+		<Districts>Pyuthan,Rolpa,Rukum,Salyan,Dang,Banke,Bardiya,Surkhet,Jajarkot</Districts>
+		<Info><![CDATA[
+<b>Hindu</b> 247500<br/>
+<b>Islam</b> 15371<br/>
+<b>Bouddha</b> 11874<br/>
+<b>Christian</b> 1061<br/>
+<b>Others</b> 166<br/>
+<b>Sikha</b> 53<br/>
+<b>Jain</b> 25<br/>
+<b>Kirat</b> 25<br/>
+<b>Garaute</b> 13<br/>
+<b>Tapjura</b> 11<br/>
+]]></Info>
+	</Cluster>
+	<Cluster id="Cluster 6">
+		<Description>religion distribution</Description>
+		<Districts>Sindhuli,Ramechhap,Dolakha,Sindhupalchok,Kabhre,Lalitpur,Bhaktapur,Kathmandu,Nuwakot,Rasuwa,Dhading,Makwanpur,Chitwan</Districts>
+		<Info><![CDATA[
+<b>Hindu</b> 385128<br/>
+<b>Bouddha</b> 138430<br/>
+<b>Christian</b> 4364<br/>
+<b>Islam</b> 2142<br/>
+<b>Kirat</b> 2008<br/>
+<b>Others</b> 1434<br/>
+<b>Jain</b> 85<br/>
+<b>Sikha</b> 64<br/>
+<b>Tapjura</b> 24<br/>
+<b>Bahai</b> 21<br/>
+]]></Info>
+	</Cluster>
+</Document>
